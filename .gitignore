@@ -1,0 +1,5 @@
+# ignore рус files
+*.рус
+
+# ignore catalog cache
+cache/
